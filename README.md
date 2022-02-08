@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to s-m.contact on GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/smmcmahonconsult/reimagined-meme/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
